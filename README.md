@@ -1,0 +1,2 @@
+# QR STOK KONTROL SİSTEMİ
+
